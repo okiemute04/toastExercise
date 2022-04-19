@@ -4,12 +4,6 @@ Welcome to the toast exercise! We just got a new project from the Product team t
 a simple toast system that notifies users when someone fills out a form on a page they've published (a form submission).
 They then can "like" the submission to have it saved on their list.
 
-Our hope is this exercise should take around 2-4 hours.
-
-_Please do not spend more than 4 hours._ If you do not finish, that is fine. We are
-most concerned with discussing how you approached the problem and solution during the
-interview.
-
 ## Setup
 
 * Must have recent versions of `git` and `node` installed
@@ -88,11 +82,6 @@ It doesn't have to look exact.
 
 * Focus on getting the core requirements down first. Then work on polish if you have time
 * If you use MUI, they have a `<Snackbar>` component that can be helpful.
-
-## Submitting
-
-Please submit your code, with commit messages, to a public git repository and reply to
-the recruiting emails with the link to your repository.
 
 ------------------------
 
